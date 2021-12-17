@@ -1,0 +1,60 @@
+1 / 6
+	A quoi sert la concaténation ?
+	
+	A assembler des contenus pour en faire une chaîne de caractères
+	A faire des calculs
+	A changer le type d'une variable
+	
+	Bonne Reponse => 
+
+	A assembler des contenus pour en faire une chaîne de caractères
+
+2 / 6
+
+	Quel est le symbole de la concaténation en JavaScript ?
+
+	le point .
+	le plus +
+	le tiret -
+	la virgule ,
+
+	Bonne Reponse =>
+
+	le plus +
+
+3 / 6
+	Quel est le symbole pour démarrer une "Template String ?"
+
+	la cote '
+	la double cote "
+	le backtick `
+
+	Bonne Reponse =>
+
+	le backtick `
+
+4 / 6
+
+	Comment préparer un espace javascript dans une Template string ?
+
+	avec : $contenu
+	avec : ${contenu}
+	avec : {contenu}
+	avec `contenu`
+
+	Bonne Reponse =>
+
+	avec : ${contenu}
+
+5 / 6
+
+	A quoi servent les fonctions padStart et padEnd ?
+
+	à ajouter du texte dans une chaîne
+	à compléter un texte pour obtenir un nombre de caractères prédéfini en y ajoutant une chaîne choisie
+	à remplir une chaîne de zéro
+	à remplir une chaîne de tiret
+
+	Bonne Reponse =>
+
+	à compléter un texte pour obtenir un nombre de caractères prédéfini en y ajoutant une chaîne choisie
