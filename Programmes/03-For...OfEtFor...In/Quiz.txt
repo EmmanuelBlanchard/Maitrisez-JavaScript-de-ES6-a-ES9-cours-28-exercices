@@ -1,0 +1,70 @@
+1 / 6
+	Dans quel cadre pouvons nous utiliser une boucle for ?
+
+	quand on connait à l'avance le nombre de fois où une action doit être répétée
+	quand on ne connait pas à l'avance le nombre de fois où une action doit être répétée
+	quand on utilise des entiers
+	
+	Bonne Reponse => 
+
+	quand on connait à l'avance le nombre de fois où une action doit être répétée
+
+2 / 6
+
+	Pourquoi nous utilisons en général une boucle "for" sur les tableaux ?
+
+	car nous avons la propriété "length" permettant de récupérer la taille du tableau
+	car un tableau commence toujours à l'indice zéro
+	car un tableau peut contenir tout type d'élément (variable, entier, booléen, objets)
+
+	Bonne Reponse =>
+
+	car nous avons la propriété "length" permettant de récupérer la taille du tableau
+
+3 / 6
+
+	Que représente "x" récupéré dans la boucle for...in. Exemple for(let x in tab)
+	
+	une chaîne de caractères
+	l'indice
+	la valeur
+
+	Bonne Reponse =>
+
+	l'indice
+
+4 / 6
+
+	Que représente "x" récupéré dans la boucle for...of. Exemple for(let x of tab)
+	
+	une chaîne de caractères
+	l'indice
+	la valeur
+
+	Bonne Reponse =>
+
+	la valeur
+
+5 / 6
+
+	Quelle boucle est plus adaptée à l'utilisation des objets ?
+
+	for...in
+	for...of
+
+	Bonne Reponse =>
+
+	for...in
+	
+6 / 6
+
+	Quelle boucle est la MOINS adaptée à l'utilisation des tableaux
+
+	for
+	forEach
+	for...of
+	for...in
+
+	Bonne Reponse =>
+
+	for...in
