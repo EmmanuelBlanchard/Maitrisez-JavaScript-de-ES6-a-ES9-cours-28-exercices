@@ -1,0 +1,71 @@
+1 / 6
+	Quelle est la particularité d'une constante ?
+	
+	c'est un conteneur qui peut être déclaré de manière locale
+	c'est un conteneur qui peut être déclaré de manière globale
+	c'est un conteneur qui ne peut pas changer de valeur
+
+	Bonne Reponse => 
+
+	c'est un conteneur qui ne peut pas changer de valeur
+
+2 / 6
+	Qu'est ce que la portée globale d'une variable ?
+
+	La portée globale permet d'avoir une "super variable" contenant des objets
+	La portée globale permet de définir une variable disponible dans des blocs de niveau inférieur
+	La portée globale permet de définir une variable de type String
+
+	Bonne Reponse =>
+
+	La portée globale permet de définir une variable disponible dans des blocs de niveau inférieur
+
+3 / 6
+	Qu'est ce qu'une variable locale ?
+
+	une variable disponible seulement dans le bloc de sa définition et dans ses blocs "fils"
+	une variable de type entière ou booléenne
+	une variable disponible par les blocs de niveau supérieurs
+
+	Bonne Reponse =>
+
+	une variable disponible seulement dans le bloc de sa définition et dans ses blocs "fils"
+
+4 / 6
+
+	A quoi sert le mot clef "let" en comparaison du mot clef "var" ?
+
+	Le mot clef "let" permet de forcer le développeur à positionner la déclaration de variable au bon endroit dans un bloc
+	Le mot clef "let" permet de définir un type de variable spécifique pour les tableaux et les objets
+	Le mot clef "var" ne s'utilise que dans le cadre des fichiers JavaScript utilisables par un navigateur ("let" pour Node.JS)
+	Les mots clef "let" et "var" sont absolument identiques, cependant "let" est disponibles depuis ES6.
+
+	Bonne Reponse =>
+
+	Le mot clef "let" permet de forcer le développeur à positionner la déclaration de variable au bon endroit dans un bloc
+
+
+5 / 6
+
+	Comment récupérer une balise portant l'id "btn"
+
+	document.querySelector("#btn")
+	document.querySelector(".btn")
+	document.getElementsByName("btn")
+
+	Bonne Reponse =>
+
+	document.querySelector("#btn")
+
+6 / 6
+
+	Comment récupérer une balise div portant la "class" : "x"
+
+	document.getElementById("x")
+	document.querySelector("x")
+	document.querySelector("#x")
+	document.querySelector(".x")
+
+	Bonne Reponse =>
+
+	document.querySelector(".x")
