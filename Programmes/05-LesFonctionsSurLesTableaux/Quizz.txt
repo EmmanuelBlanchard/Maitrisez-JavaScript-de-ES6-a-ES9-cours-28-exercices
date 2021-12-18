@@ -1,0 +1,73 @@
+1 / 6
+
+	Quelle fonction permet d'ajouter un élément à la fin d'un tableau ?
+
+    pop
+    push
+    add
+	
+	Bonne Reponse => 
+
+	push
+
+2 / 6
+
+	Soit tab = [x,y] ; que fait cette instruction : let tab2 = tab
+
+    Elle créée une copie d'un tableau
+    Elle créée une copie de la référence d'un tableau (pointeur)
+    Elle créée un tableau à deux dimentions
+
+	Bonne Reponse =>
+
+	Elle créée une copie de la référence d'un tableau (pointeur)
+
+3 / 6
+
+	Quelle fonction permet de réaliser la copie d'un tableau ?
+
+    slice
+    splice
+    pop
+    push
+
+	Bonne Reponse =>
+
+	slice
+
+4 / 6
+    
+    A quoi sert la fonction map ?
+
+    A créer une copie d'un tableau
+    A trouver une valeur dans un tableau via une fonction
+    A transformer un tableau via une fonction
+    A retourner un tableau provenant d'un autre tableau auquel une transformation a été apportée par une fonction
+
+	Bonne Reponse =>
+
+	A retourner un tableau provenant d'un autre tableau auquel une transformation a été apportée par une fonction
+
+5 / 6
+    
+    A quoi sert la fonction entries ?
+
+    A retourner un tableau contenant la combinaison [index, valeur] d'un tableau
+    A transformer un tableau en objet
+    A retourner les index d'un tableau
+	
+    Bonne Reponse =>
+
+	A retourner un tableau contenant la combinaison [index, valeur] d'un tableau
+
+6 / 6
+
+    A quoi sert la fonction include ?
+
+    A ajouter un élément à une position donnée dans un tableau
+    A vérifier si un élément est présent dans un tableau
+    A retourner l'indice d'un élément dans un tableau
+
+	Bonne Reponse =>
+
+	A vérifier si un élément est présent dans un tableau
