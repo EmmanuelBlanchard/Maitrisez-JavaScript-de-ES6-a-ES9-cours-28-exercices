@@ -1,0 +1,37 @@
+1 / 3
+
+	A quoi sert la décomposition (destructuring) ?
+
+	A transformer des variables en chaîne de caractères
+    A récupérer des informations de tableaux ou objets et à les mettre sous forme de variables
+    A séparer des entiers et des chaînes de caractères d'un tableau
+	
+	Bonne Reponse => 
+
+	A récupérer des informations de tableaux ou objets et à les mettre sous forme de variables
+
+2 / 3
+
+	Quelle écriture permet de récupérer les cases du tableau en variables
+
+    let [a,b,c] = [x,y,z]
+    let {a,b,c} = [x,y,z]
+    let a,b,c = [x,y,z]
+    let [a,b,c] = x,y,z
+
+	Bonne Reponse =>
+
+	let [a,b,c] = [x,y,z]
+
+3 / 3
+
+	Quelle écriture permet de récupérer les propriétés d'un objet en variables
+
+    let {a,b} = {x,y}
+    let {a,b} = {a,b}
+    let {x,y} = {a,b}
+    let [x,y] = {a,b}
+
+	Bonne Reponse =>
+
+	let {a,b} = {a,b}
