@@ -6,6 +6,6 @@
 
     => Tableau en entrée : const notes = [5,10,15,20];
 
-   => Tableau transformé : [ 25, 100, 225, 400];
+    => Tableau transformé : [ 25, 100, 225, 400];
 
 */
