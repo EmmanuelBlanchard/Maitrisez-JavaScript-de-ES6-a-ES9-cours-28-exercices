@@ -1,0 +1,37 @@
+1 / 3
+
+	A quoi servent les paramètres par défaut d'une fonction ?
+
+    A rajouter un booléen dans une fonction
+    A définir des valeurs à des variables si elle ne sont pas renseignées lors de l'appel d'une fonction
+    A changer l'ordre des paramètres d'une fonction
+    A remplir des paramètres d'une fonction avec des variables
+	
+	Bonne Reponse => 
+
+	A définir des valeurs à des variables si elle ne sont pas renseignées lors de l'appel d'une fonction
+
+2 / 3
+
+    Où doit-on placer les paramètres par défaut ?
+
+    au début
+    à la fin
+    peu importe
+
+    Bonne Reponse => 
+
+    à la fin
+
+3 / 3
+
+    Est-il possible de définir plusieurs paramètres par défaut dans une fonction ?
+
+    oui
+    non
+
+    Bonne Reponse => 
+
+    oui
+
+
