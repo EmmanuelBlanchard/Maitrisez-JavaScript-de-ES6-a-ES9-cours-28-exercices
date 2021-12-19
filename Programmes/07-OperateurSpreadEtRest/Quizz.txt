@@ -1,0 +1,48 @@
+1 / 4
+
+    Que permet de faire l'opérateur Rest
+
+    récupérer un nombre illimité d'arguments passés en paramètre de fonction (sous forme de tableau)
+    récupérer plusieurs tableaux depuis une fonction
+    récupérer plusieurs objets depuis une fonction
+    récupérer des informations de tableaux ou d'objets
+
+	Bonne Reponse => 
+
+	récupérer un nombre illimité d'arguments passés en paramètre de fonction (sous forme de tableau)
+
+2 / 4
+
+	A quoi sert l'opérateur Spread
+
+    a récupérer plusieurs tableaux depuis une fonction
+    a séparer et récupérer des informations de tableaux ou d'objets
+    a récupérer plusieurs objets depuis une fonction
+
+	Bonne Reponse =>
+
+	a séparer et récupérer des informations de tableaux ou d'objets
+
+3 / 4
+
+    Dans quel cas l'opérateur Spread est utilisé :
+
+    pour créer des copies réelles de tableaux et d'objets
+    pour copier le pointeur de tableaux ou d'objets
+    pour déclarer et initialiser des tableaux ou des objets
+
+	Bonne Reponse =>
+
+	pour créer des copies réelles de tableaux et d'objets
+
+4 / 4
+    
+    Quel est le symbole de l'opérateur Rest
+
+    []
+    ,
+    ...
+
+	Bonne Reponse =>
+
+	...
