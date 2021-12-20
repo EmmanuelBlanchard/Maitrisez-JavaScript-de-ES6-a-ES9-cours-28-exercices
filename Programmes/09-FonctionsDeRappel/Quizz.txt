@@ -1,0 +1,36 @@
+1 / 3
+
+    Qu'est ce qu'une fonction de rappel ?
+
+    une fonction qui est déclarée dans une autre fonction
+    une fonction qui s'utilise sans paramètre
+    une fonction qui est passée en paramètre d'une autre fonction
+
+    Bonne Reponse =>
+
+    une fonction qui est passée en paramètre d'une autre fonction
+
+2 / 3
+
+    Dans quel cadre une fonction de rappel est utilisée ?
+
+    pour réaliser des traitements avant le lancement d'une autre fonction
+    pour réaliser des calculs dans une fonction anonyme
+    pour ajouter des paramètres à une fonction avant son exécution
+
+    Bonne Reponse =>
+
+    pour réaliser des traitements avant le lancement d'une autre fonction
+
+3 / 3
+
+    Quelle fonction native sur les tableaux utilise les fonctions de rappel ?
+
+    map
+    includes
+    push
+    pop
+
+    Bonne Reponse =>
+
+    map
