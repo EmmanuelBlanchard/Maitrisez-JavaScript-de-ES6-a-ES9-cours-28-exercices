@@ -1,0 +1,49 @@
+1 / 4
+    
+    Qu'est qu'une fonction anonyme ?
+
+    Une fonction qui n'a pas de nom
+    Une fonction qui n'utilise pas de paramètre
+    Une fonction qui s'écrit sans le mot clef "function"
+
+    Bonne Reponse =>
+
+    Une fonction qui n'a pas de nom
+
+2 / 4
+
+    Qu'est qu'une fonction fléchée ?
+
+    une fonction anonyme qui s'écrit sans le mot clef "function" et qui utilise une flèche à la place
+    une fonction qui s'écrit avec le mot clef "function" et une flèche pour définir les paramètres.
+    une fonction sans paramètre
+
+    Bonne Reponse =>
+
+    une fonction anonyme qui s'écrit sans le mot clef "function" et qui utilise une flèche à la place
+
+3 / 4
+
+    Quelle écriture n'est pas valide
+    
+    x => x+1
+    ( ) => 4*3
+    (x,y) => x * y
+    x,y => x * y
+
+    Bonne Reponse =>
+
+    x,y => x * y
+
+4 / 4
+    
+    Quand est-il optionnel de mettre des accolades autour des instructions de la fonction fléchée ?
+
+    Quand le nombre de lignes est supérieur à 1
+    Quand il n'y a qu'une instruction dans la fonction
+    Jamais, il faut toujours mettre des accolades
+    Toujours, les accolades sont optionnelles
+
+    Bonne Reponse =>
+
+    Quand il n'y a qu'une instruction dans la fonction
