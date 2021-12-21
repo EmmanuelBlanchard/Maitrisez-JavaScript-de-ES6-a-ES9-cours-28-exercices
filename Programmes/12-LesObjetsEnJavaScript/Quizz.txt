@@ -1,0 +1,83 @@
+1 / 7
+
+    Que contient un objet javascript ?
+    
+    des propriétés et des fonctions
+    seulement des propriétés
+    seulement des fonctions
+
+    Bonne Reponse =>
+
+    des propriétés et des fonctions
+
+2 / 7
+
+    Quelle instruction ne permet pas d'ajouter une propriété "prop" avec la valeur "x" à un objet ?
+
+    obj.prop = x
+    obj[prop] = x
+    obj["prop"] = x
+
+    Bonne Reponse =>
+
+    obj[prop] = x
+
+3 / 7
+
+    Quelle boucle permet de parcourir les objets ?
+
+    for...of
+    for...in
+
+    Bonne Reponse =>
+
+    for...in
+
+4 / 7
+
+    A quoi sert le mot clef "this"
+
+    A récupérer la taille d'un objet
+    A utiliser une propriété d'un objet à l'intérieur de lui même
+    A changer la valeur d'une propriété d'un objet
+
+    Bonne Reponse =>
+
+    A utiliser une propriété d'un objet à l'intérieur de lui même
+
+5 / 7
+
+    Quelle fonction permet de récupérer les noms des propriétés d'un objet sous forme de tableau ?
+
+    entries
+    values
+    keys
+
+    Bonne Reponse =>
+
+    keys
+
+6 / 7
+
+    Quelle instruction permet de récupérer la taille d'un objet x ?
+
+    Object.size(x)
+    Object.keys(x).length
+    x.length
+
+    Bonne Reponse =>
+
+    Object.keys(x).length
+
+7 / 7
+
+    Quelle instruction ne permet pas de créer une copie d'un objet "x" dans un objet "y"
+
+    Object.assign(y,x)
+    y = x
+    y = {...x}
+    
+    Bonne Reponse =>
+
+    y = x
+
