@@ -1,0 +1,50 @@
+1 / 4
+
+    Comment exporter un objet depuis un fichier JavaScript ?
+
+    default export obj
+    import default obj
+    export default obj
+    default import obj
+
+    Bonne Reponse =>
+
+    export default obj
+
+2 / 4
+
+    Comment récupérer un objet depuis un autre fichier ?
+
+    import {obj} from "fichier"
+    import obj from "fichier"
+    import "fichier"
+
+    Bonne Reponse =>
+
+    import obj from "fichier"
+
+3 / 4
+
+    Comment récupérer les fonctions x et y d'un fichier exporté ?
+
+    import {x},{y} from "fichier"
+    import x,y from "fichier"
+    import {x,y} from "fichier"
+
+    Bonne Reponse =>
+
+    import {x,y} from "fichier"
+
+4 / 4
+
+    Que faut il faire pour pouvoir utiliser le système d'import / export dans un fichier html ?
+
+    utiliser un serveur
+    indiquer qu'un fichier javascript est de type "module"
+    les deux actions précédemment listées
+
+    Bonne Reponse =>
+
+    Les deux actions précédemment listées  (utiliser un serveur et
+    indiquer qu'un fichier javascript est de type "module")
+
