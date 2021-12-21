@@ -21,51 +21,6 @@
     <div id="resultat"></div>
     <script>
         //code ...
-
-        const buttonStart = document.querySelector("#start");
-        const h1Calcul = document.querySelector("#calcul");
-        const divCompteur = document.querySelector("#compteur");
-
-        buttonStart.addEventListener("click", () => {
-            h1Calcul.removeAttribute("style");
-            startTimer(5);
-        });
-
-        function monTimer(timer){
-            return new Promise(resolve => {
-                setTimeout(() => {
-                    resolve (`${timer}`);
-                },1000);
-            })
-        }
-
-        async function startTimer(seconde){
-            for(let i = seconde; i > 0; i--){
-                divCompteur.innerHTML = await monTimer(i);
-            }
-            divCompteur.innerHTML = "Le résultat est 15 ! ";
-        }
-
-        const calcul = {
-            moyenne : function(tab) {
-                let resultat = 0;
-                for(let valeur of tab){
-                    resultat += valeur;
-                }
-                return resultat / tab.length;
-            },
-            
-            somme : function(tab) {
-                let resultat = 0;
-                for(let valeur of tab){
-                    resultat += valeur;
-                }
-                return resultat;
-            }
-        }
-        export default calcul;
-        
-
     </script>
 </body>
 </html>
