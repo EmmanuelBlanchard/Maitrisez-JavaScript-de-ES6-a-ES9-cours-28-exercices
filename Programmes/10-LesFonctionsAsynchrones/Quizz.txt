@@ -1,0 +1,71 @@
+1 / 6
+
+    Que fait le programme dans le cadre de traitement synchrone ?
+
+    Il continue son traitement sans attendre la fin des traitements
+    Il attend la fin de chaque traitement synchrone pour passer à la suite
+
+    Bonne Reponse =>
+
+    Il attend la fin de chaque traitement synchrone pour passer à la suite
+
+2 / 6
+
+    Quelle est la particularité d'un traitement asynchrone ?
+
+    On sait identifier quand il est lancé mais pas quand il se termine
+    On doit le lancer par une fonction synchrone
+    Un programme principal ne peut pas lancer un traitement asynchrone
+
+    Bonne Reponse =>
+
+    On sait identifier quand il est lancé mais pas quand il se termine
+
+3 / 6
+
+    Quelle fonctionnalité permet de mettre en place des fonctions asynchrones ?
+
+    Les objets
+    Le mot clef await
+    Les promesses
+    Les tableaux multidimensionnels
+
+    Bonne Reponse =>
+
+    Les promesses
+
+4 / 6
+
+    Quelle fonction permet de chaîner des traitements via l'utilisation des promesses ?
+
+    next()
+    add()
+    then()
+
+    Bonne Reponse =>
+
+    then()
+
+5 / 6
+
+    Comment indiquer dans un programme qu'une fonction est asynchrone ?
+
+    En ajoutant une fonction de rappel
+    En ajoutant le mot clef Async devant le mot clef function
+    En utilisant les fonctions fléchées et les fonctions de rappel
+
+    Bonne Reponse =>
+
+    En ajoutant le mot clef Async devant le mot clef function
+
+6 / 6
+
+    Que permet de faire le mot clef await
+
+    Récupérer la valeur en retour d'une promesse après sa résolution
+    Continuer le traitement d'une fonction asynchrone
+    Créer une promesse qui est utilisée dans une fonction asynchrone
+
+    Bonne Reponse =>
+
+    Récupérer la valeur en retour d'une promesse après sa résolution
