@@ -1,0 +1,73 @@
+1 / 6
+
+    A quoi sert le système de classes ?
+
+    A mettre en place une structure permettant de créer des objets
+    A définir un groupe de fonctions
+    A mettre en place des tableaux d'objets
+
+    Bonne Reponse =>
+
+    A mettre en place une structure permettant de créer des objets
+
+2 / 6
+
+    Comment générer des objets à partir d'une classe "x" ?
+
+    new X
+    constructor X
+    generator X
+    let X
+
+    Bonne Reponse =>
+
+    new X
+
+3 / 6
+
+    Lors de l'utilisation du mot clef "new" quelle fonction est appellée ?
+
+    generator
+    set
+    constructor
+
+    Bonne Reponse =>
+
+    constructor
+
+4 / 6
+
+    A quoi sert l'héritage ?
+
+    à définir des "super classes" regroupant des informations communes à plusieurs classes
+    à définir des classes sans constructeur
+    à définir des objets provenant de plusieurs classes
+
+    Bonne Reponse =>
+
+    à définir des "super classes" regroupant des informations communes à plusieurs classes
+
+5 / 6
+    
+    Comment mettre en place le système d'héritage ?
+
+    avec le mot clef "implements"
+    avec le mot clef "extends"
+    avec le mot clef "super"
+
+    Bonne Reponse =>
+
+    avec le mot clef "extends"
+
+6 / 6
+
+    A quoi sert le mot clef "super"
+
+    A manipuler une propriété (fonction ou attribut) d'une classe mère
+    A modifier un attribut d'une classe fille
+    A utiliser les informations dans l'objet lui même
+
+    Bonne Reponse =>
+
+    A manipuler une propriété (fonction ou attribut) d'une classe mère
+
